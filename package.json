@@ -130,7 +130,7 @@
     "karma-sourcemap-loader": "^0.3.7",
     "madge": "^3.4.4",
     "magic-string": "^0.22.4",
-    "marked": "^0.6.2",
+    "marked": "^0.7.0",
     "merge2": "^1.2.3",
     "minimatch": "^3.0.4",
     "minimist": "^1.2.0",
